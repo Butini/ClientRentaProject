@@ -17,5 +17,14 @@ namespace ClientRentaProject.Presentation.WinSite
             InitializeComponent();
         }
 
+        private void SelectFileBtn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void UploadFileBtn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
